@@ -35,6 +35,7 @@
 	<Property Name="Serialized ACL" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!A1%!!!@````]!!".V&lt;H.J:WZF:#"C?82F)'&amp;S=G&amp;Z!!%!!1!!!!A)!!!!#!!!!!!!!!!</Property>
 	<Property Name="Use Data Logging Database" Type="Bool">true</Property>
 	<Item Name="support" Type="Folder">
+		<Item Name="Message.ctl" Type="VI" URL="../../../controls/Message.ctl"/>
 		<Item Name="Enqueue Message (Single).vi" Type="VI" URL="../Enqueue Message (Single).vi"/>
 		<Item Name="Enqueue Message (Array).vi" Type="VI" URL="../Enqueue Message (Array).vi"/>
 		<Item Name="All Message Queues.ctl" Type="VI" URL="../All Message Queues.ctl"/>
