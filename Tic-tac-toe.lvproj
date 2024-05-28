@@ -47,10 +47,14 @@
 			<Item Name="PlayerMode.ctl" Type="VI" URL="../controls/PlayerMode.ctl"/>
 			<Item Name="UI Data.ctl" Type="VI" URL="../controls/UI Data.ctl"/>
 		</Item>
+		<Item Name="AllLines.vi" Type="VI" URL="../AllLines.vi"/>
 		<Item Name="Clear Gameboard.vi" Type="VI" URL="../Clear Gameboard.vi"/>
+		<Item Name="GameboardToNumeric.vi" Type="VI" URL="../GameboardToNumeric.vi"/>
 		<Item Name="GetPlayerText.vi" Type="VI" URL="../GetPlayerText.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="PlayerSettings.ctl" Type="VI" URL="../controls/PlayerSettings.ctl"/>
+		<Item Name="WinConditionOutside.vi" Type="VI" URL="../WinConditionOutside.vi"/>
+		<Item Name="WinConditionsNumeric.vi" Type="VI" URL="../WinConditionsNumeric.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
