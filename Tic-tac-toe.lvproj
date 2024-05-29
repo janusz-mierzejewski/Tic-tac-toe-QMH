@@ -30,6 +30,14 @@
 		</Item>
 		<Item Name="Support VIs" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">3</Property>
+			<Item Name="Game VIs" Type="Folder">
+				<Item Name="Clear Gameboard.vi" Type="VI" URL="../support/game VIs/Clear Gameboard.vi"/>
+				<Item Name="GameboardToNumeric.vi" Type="VI" URL="../support/game VIs/GameboardToNumeric.vi"/>
+				<Item Name="GetPlayerText.vi" Type="VI" URL="../support/game VIs/GetPlayerText.vi"/>
+				<Item Name="WinConditionOutside.vi" Type="VI" URL="../support/game VIs/WinConditionOutside.vi"/>
+				<Item Name="WinConditionsNumeric.vi" Type="VI" URL="../support/game VIs/WinConditionsNumeric.vi"/>
+				<Item Name="AllLines.vi" Type="VI" URL="../support/game VIs/AllLines.vi"/>
+			</Item>
 			<Item Name="Message Queue.lvlib" Type="Library" URL="../support/Message Queue/Message Queue.lvlib"/>
 			<Item Name="User Event - Stop.lvlib" Type="Library" URL="../support/User Event - Stop/User Event - Stop.lvlib"/>
 			<Item Name="Check Loop Error.vi" Type="VI" URL="../support/Check Loop Error.vi"/>
@@ -45,16 +53,10 @@
 			<Item Name="Player.ctl" Type="VI" URL="../controls/Player.ctl"/>
 			<Item Name="PlayerBundle.ctl" Type="VI" URL="../controls/PlayerBundle.ctl"/>
 			<Item Name="PlayerMode.ctl" Type="VI" URL="../controls/PlayerMode.ctl"/>
+			<Item Name="PlayerSettings.ctl" Type="VI" URL="../controls/PlayerSettings.ctl"/>
 			<Item Name="UI Data.ctl" Type="VI" URL="../controls/UI Data.ctl"/>
 		</Item>
-		<Item Name="AllLines.vi" Type="VI" URL="../AllLines.vi"/>
-		<Item Name="Clear Gameboard.vi" Type="VI" URL="../Clear Gameboard.vi"/>
-		<Item Name="GameboardToNumeric.vi" Type="VI" URL="../GameboardToNumeric.vi"/>
-		<Item Name="GetPlayerText.vi" Type="VI" URL="../GetPlayerText.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
-		<Item Name="PlayerSettings.ctl" Type="VI" URL="../controls/PlayerSettings.ctl"/>
-		<Item Name="WinConditionOutside.vi" Type="VI" URL="../WinConditionOutside.vi"/>
-		<Item Name="WinConditionsNumeric.vi" Type="VI" URL="../WinConditionsNumeric.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
