@@ -6,7 +6,6 @@ You may play human vs. human, human v. computer or let computer play with itself
 Work's at the begining right now.
 
 TO DO:
-- Cancel Game button's wonky - fix it
 - Settings dialog window
 - Bots
   - random - noob ;)
