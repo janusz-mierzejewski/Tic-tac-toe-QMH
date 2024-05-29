@@ -58,7 +58,10 @@
 			<Item Name="PlayerSettings.ctl" Type="VI" URL="../controls/PlayerSettings.ctl"/>
 			<Item Name="UI Data.ctl" Type="VI" URL="../controls/UI Data.ctl"/>
 		</Item>
+		<Item Name="IntermediateBotLogic.vi" Type="VI" URL="../support/game VIs/IntermediateBotLogic.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+		<Item Name="RandomMoveNumeric.vi" Type="VI" URL="../support/game VIs/RandomMoveNumeric.vi"/>
+		<Item Name="SearchForTwoInLine.vi" Type="VI" URL="../support/game VIs/SearchForTwoInLine.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
