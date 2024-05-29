@@ -3,11 +3,13 @@ Tic-tac-toe game in Labview 2020 SP1 using Queued Message Handler template
 
 You may play human vs. human, human v. computer or let computer play with itself.
 
-Work's at the begining right now.
+Bots:
+- random - noob ;)
+- intermediate - some good ideas but not all
+- perfect play - it's solved game after all
 
 TO DO:
-- Settings dialog window
-- Bots
-  - random - noob ;)
-  - intermediate - some good ideas but not all (maybe a few grades of that)
-  - perfect play - it's solved game after all
+- perfect play bot:
+  -  generating decision tree (I don't want to implement perfect play algorithm by hand)
+  -  finding current board encoded inside DT and getting best moves
+
