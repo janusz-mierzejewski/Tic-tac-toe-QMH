@@ -35,10 +35,18 @@
 				<Item Name="SelectRandomIndex.vi" Type="VI" URL="../support/game VIs/SelectRandomIndex.vi"/>
 				<Item Name="Clear Gameboard.vi" Type="VI" URL="../support/game VIs/Clear Gameboard.vi"/>
 				<Item Name="GameboardToNumeric.vi" Type="VI" URL="../support/game VIs/GameboardToNumeric.vi"/>
+				<Item Name="IntermediateBotLogic.vi" Type="VI" URL="../support/game VIs/IntermediateBotLogic.vi"/>
 				<Item Name="GetPlayerText.vi" Type="VI" URL="../support/game VIs/GetPlayerText.vi"/>
+				<Item Name="RandomMoveNumeric.vi" Type="VI" URL="../support/game VIs/RandomMoveNumeric.vi"/>
 				<Item Name="WinConditionOutside.vi" Type="VI" URL="../support/game VIs/WinConditionOutside.vi"/>
 				<Item Name="WinConditionsNumeric.vi" Type="VI" URL="../support/game VIs/WinConditionsNumeric.vi"/>
 				<Item Name="AllLines.vi" Type="VI" URL="../support/game VIs/AllLines.vi"/>
+				<Item Name="SearchForTwoInLine.vi" Type="VI" URL="../support/game VIs/SearchForTwoInLine.vi"/>
+			</Item>
+			<Item Name="SettingsVIs" Type="Folder">
+				<Item Name="SettingsData.vi" Type="VI" URL="../support/settings VIs/SettingsData.vi"/>
+				<Item Name="SettingsDialog.vi" Type="VI" URL="../support/settings VIs/SettingsDialog.vi"/>
+				<Item Name="SettingsSequence.vi" Type="VI" URL="../support/settings VIs/SettingsSequence.vi"/>
 			</Item>
 			<Item Name="Message Queue.lvlib" Type="Library" URL="../support/Message Queue/Message Queue.lvlib"/>
 			<Item Name="User Event - Stop.lvlib" Type="Library" URL="../support/User Event - Stop/User Event - Stop.lvlib"/>
@@ -58,10 +66,7 @@
 			<Item Name="PlayerSettings.ctl" Type="VI" URL="../controls/PlayerSettings.ctl"/>
 			<Item Name="UI Data.ctl" Type="VI" URL="../controls/UI Data.ctl"/>
 		</Item>
-		<Item Name="IntermediateBotLogic.vi" Type="VI" URL="../support/game VIs/IntermediateBotLogic.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
-		<Item Name="RandomMoveNumeric.vi" Type="VI" URL="../support/game VIs/RandomMoveNumeric.vi"/>
-		<Item Name="SearchForTwoInLine.vi" Type="VI" URL="../support/game VIs/SearchForTwoInLine.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
