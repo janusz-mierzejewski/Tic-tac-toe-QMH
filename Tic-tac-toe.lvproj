@@ -37,11 +37,12 @@
 				<Item Name="GameboardToNumeric.vi" Type="VI" URL="../support/game VIs/GameboardToNumeric.vi"/>
 				<Item Name="IntermediateBotLogic.vi" Type="VI" URL="../support/game VIs/IntermediateBotLogic.vi"/>
 				<Item Name="GetPlayerText.vi" Type="VI" URL="../support/game VIs/GetPlayerText.vi"/>
-				<Item Name="RandomMoveNumeric.vi" Type="VI" URL="../support/game VIs/RandomMoveNumeric.vi"/>
+				<Item Name="GetEmptyFieldsNumeric.vi" Type="VI" URL="../support/game VIs/GetEmptyFieldsNumeric.vi"/>
 				<Item Name="WinConditionOutside.vi" Type="VI" URL="../support/game VIs/WinConditionOutside.vi"/>
 				<Item Name="WinConditionsNumeric.vi" Type="VI" URL="../support/game VIs/WinConditionsNumeric.vi"/>
 				<Item Name="AllLines.vi" Type="VI" URL="../support/game VIs/AllLines.vi"/>
 				<Item Name="SearchForTwoInLine.vi" Type="VI" URL="../support/game VIs/SearchForTwoInLine.vi"/>
+				<Item Name="WinCondNumTests.vi" Type="VI" URL="../support/game VIs/tests/WinCondNumTests.vi"/>
 			</Item>
 			<Item Name="SettingsVIs" Type="Folder">
 				<Item Name="SettingsData.vi" Type="VI" URL="../support/settings VIs/SettingsData.vi"/>
