@@ -40,7 +40,16 @@
 				<Item Name="GetEmptyFieldsNumeric.vi" Type="VI" URL="../support/game VIs/GetEmptyFieldsNumeric.vi"/>
 				<Item Name="WinConditionOutside.vi" Type="VI" URL="../support/game VIs/WinConditionOutside.vi"/>
 				<Item Name="WinConditionsNumeric.vi" Type="VI" URL="../support/game VIs/WinConditionsNumeric.vi"/>
+				<Item Name="Flatten2DArray.vi" Type="VI" URL="../support/game VIs/Flatten2DArray.vi"/>
+				<Item Name="GetAllIsometriesOf2DArray.vi" Type="VI" URL="../support/game VIs/GetAllIsometriesOf2DArray.vi"/>
+				<Item Name="GetEquivalentKeysNumeric.vi" Type="VI" URL="../support/game VIs/GetEquivalentKeysNumeric.vi"/>
+				<Item Name="MakeSquare.vi" Type="VI" URL="../support/game VIs/MakeSquare.vi"/>
+				<Item Name="ReflectArray.vi" Type="VI" URL="../support/game VIs/ReflectArray.vi"/>
+				<Item Name="TreeBot.vi" Type="VI" URL="../support/game VIs/TreeBot.vi"/>
 				<Item Name="AllLines.vi" Type="VI" URL="../support/game VIs/AllLines.vi"/>
+				<Item Name="TreeSelectMoves.vi" Type="VI" URL="../support/game VIs/TreeSelectMoves.vi"/>
+				<Item Name="FindTreeKey.vi" Type="VI" URL="../support/game VIs/FindTreeKey.vi"/>
+				<Item Name="NumericToGameboard.vi" Type="VI" URL="../support/game VIs/NumericToGameboard.vi"/>
 				<Item Name="SearchForTwoInLine.vi" Type="VI" URL="../support/game VIs/SearchForTwoInLine.vi"/>
 				<Item Name="WinCondNumTests.vi" Type="VI" URL="../support/game VIs/tests/WinCondNumTests.vi"/>
 			</Item>
@@ -56,6 +65,8 @@
 			<Item Name="Error Handler - Message Handling Loop.vi" Type="VI" URL="../support/Error Handler - Message Handling Loop.vi"/>
 		</Item>
 		<Item Name="Type Definitions" Type="Folder">
+			<Item Name="DecisionTree.ctl" Type="VI" URL="../controls/DecisionTree.ctl"/>
+			<Item Name="DecisionTreeRecord.ctl" Type="VI" URL="../controls/DecisionTreeRecord.ctl"/>
 			<Item Name="Gameboard Data.ctl" Type="VI" URL="../controls/Gameboard Data.ctl"/>
 			<Item Name="Gameboard Refnums.ctl" Type="VI" URL="../controls/Gameboard Refnums.ctl"/>
 			<Item Name="Gameplay Data.ctl" Type="VI" URL="../controls/Gameplay Data.ctl"/>
