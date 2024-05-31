@@ -49,6 +49,7 @@
 				<Item Name="AllLines.vi" Type="VI" URL="../support/game VIs/AllLines.vi"/>
 				<Item Name="TreeSelectMoves.vi" Type="VI" URL="../support/game VIs/TreeSelectMoves.vi"/>
 				<Item Name="FindTreeKey.vi" Type="VI" URL="../support/game VIs/FindTreeKey.vi"/>
+				<Item Name="BuildDecisionTree.vi" Type="VI" URL="../support/game VIs/BuildDecisionTree.vi"/>
 				<Item Name="NumericToGameboard.vi" Type="VI" URL="../support/game VIs/NumericToGameboard.vi"/>
 				<Item Name="SearchForTwoInLine.vi" Type="VI" URL="../support/game VIs/SearchForTwoInLine.vi"/>
 				<Item Name="WinCondNumTests.vi" Type="VI" URL="../support/game VIs/tests/WinCondNumTests.vi"/>
@@ -67,6 +68,7 @@
 		<Item Name="Type Definitions" Type="Folder">
 			<Item Name="DecisionTree.ctl" Type="VI" URL="../controls/DecisionTree.ctl"/>
 			<Item Name="DecisionTreeRecord.ctl" Type="VI" URL="../controls/DecisionTreeRecord.ctl"/>
+			<Item Name="DecisionTreeTests.vi" Type="VI" URL="../support/game VIs/tests/DecisionTreeTests.vi"/>
 			<Item Name="Gameboard Data.ctl" Type="VI" URL="../controls/Gameboard Data.ctl"/>
 			<Item Name="Gameboard Refnums.ctl" Type="VI" URL="../controls/Gameboard Refnums.ctl"/>
 			<Item Name="Gameplay Data.ctl" Type="VI" URL="../controls/Gameplay Data.ctl"/>
@@ -78,6 +80,7 @@
 			<Item Name="PlayerSettings.ctl" Type="VI" URL="../controls/PlayerSettings.ctl"/>
 			<Item Name="UI Data.ctl" Type="VI" URL="../controls/UI Data.ctl"/>
 		</Item>
+		<Item Name="CheckTreeTest.vi" Type="VI" URL="../support/game VIs/tests/CheckTreeTest.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
