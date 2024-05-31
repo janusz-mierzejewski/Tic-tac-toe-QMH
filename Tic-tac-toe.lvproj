@@ -31,6 +31,11 @@
 		<Item Name="Support VIs" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">3</Property>
 			<Item Name="Game VIs" Type="Folder">
+				<Item Name="tests" Type="Folder">
+					<Item Name="DecisionTreeTests.vi" Type="VI" URL="../support/game VIs/tests/DecisionTreeTests.vi"/>
+					<Item Name="CheckTreeTest.vi" Type="VI" URL="../support/game VIs/tests/CheckTreeTest.vi"/>
+					<Item Name="WinCondNumTests.vi" Type="VI" URL="../support/game VIs/tests/WinCondNumTests.vi"/>
+				</Item>
 				<Item Name="RandomBotLogic.vi" Type="VI" URL="../support/game VIs/RandomBotLogic.vi"/>
 				<Item Name="SelectRandomIndex.vi" Type="VI" URL="../support/game VIs/SelectRandomIndex.vi"/>
 				<Item Name="Clear Gameboard.vi" Type="VI" URL="../support/game VIs/Clear Gameboard.vi"/>
@@ -52,7 +57,6 @@
 				<Item Name="BuildDecisionTree.vi" Type="VI" URL="../support/game VIs/BuildDecisionTree.vi"/>
 				<Item Name="NumericToGameboard.vi" Type="VI" URL="../support/game VIs/NumericToGameboard.vi"/>
 				<Item Name="SearchForTwoInLine.vi" Type="VI" URL="../support/game VIs/SearchForTwoInLine.vi"/>
-				<Item Name="WinCondNumTests.vi" Type="VI" URL="../support/game VIs/tests/WinCondNumTests.vi"/>
 			</Item>
 			<Item Name="SettingsVIs" Type="Folder">
 				<Item Name="SettingsData.vi" Type="VI" URL="../support/settings VIs/SettingsData.vi"/>
@@ -68,7 +72,6 @@
 		<Item Name="Type Definitions" Type="Folder">
 			<Item Name="DecisionTree.ctl" Type="VI" URL="../controls/DecisionTree.ctl"/>
 			<Item Name="DecisionTreeRecord.ctl" Type="VI" URL="../controls/DecisionTreeRecord.ctl"/>
-			<Item Name="DecisionTreeTests.vi" Type="VI" URL="../support/game VIs/tests/DecisionTreeTests.vi"/>
 			<Item Name="Gameboard Data.ctl" Type="VI" URL="../controls/Gameboard Data.ctl"/>
 			<Item Name="Gameboard Refnums.ctl" Type="VI" URL="../controls/Gameboard Refnums.ctl"/>
 			<Item Name="Gameplay Data.ctl" Type="VI" URL="../controls/Gameplay Data.ctl"/>
@@ -80,7 +83,6 @@
 			<Item Name="PlayerSettings.ctl" Type="VI" URL="../controls/PlayerSettings.ctl"/>
 			<Item Name="UI Data.ctl" Type="VI" URL="../controls/UI Data.ctl"/>
 		</Item>
-		<Item Name="CheckTreeTest.vi" Type="VI" URL="../support/game VIs/tests/CheckTreeTest.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
