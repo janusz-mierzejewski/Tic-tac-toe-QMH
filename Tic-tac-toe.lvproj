@@ -24,9 +24,12 @@
 			<Property Name="NI.SortType" Type="Int">3</Property>
 			<Item Name="Documentation Images" Type="Folder">
 				<Property Name="NI.SortType" Type="Int">0</Property>
+				<Item Name="event handling inside players&apos; loop.png" Type="Document" URL="../documentation/event handling inside players&apos; loop.png"/>
+				<Item Name="Front Panel.png" Type="Document" URL="../documentation/Front Panel.png"/>
 				<Item Name="inter-loop comunication.png" Type="Document" URL="../documentation/inter-loop comunication.png"/>
 			</Item>
 			<Item Name="dummy VI.vi" Type="VI" URL="../documentation/dummy VI.vi"/>
+			<Item Name="Tic-tac-toe.odt" Type="Document" URL="../documentation/Tic-tac-toe.odt"/>
 		</Item>
 		<Item Name="Support VIs" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">3</Property>
@@ -34,6 +37,7 @@
 				<Item Name="tests" Type="Folder">
 					<Item Name="DecisionTreeTests.vi" Type="VI" URL="../support/game VIs/tests/DecisionTreeTests.vi"/>
 					<Item Name="CheckTreeTest.vi" Type="VI" URL="../support/game VIs/tests/CheckTreeTest.vi"/>
+					<Item Name="FindKeyTiming.vi" Type="VI" URL="../support/game VIs/tests/FindKeyTiming.vi"/>
 					<Item Name="WinCondNumTests.vi" Type="VI" URL="../support/game VIs/tests/WinCondNumTests.vi"/>
 				</Item>
 				<Item Name="RandomBotLogic.vi" Type="VI" URL="../support/game VIs/RandomBotLogic.vi"/>
@@ -55,7 +59,10 @@
 				<Item Name="TreeSelectMoves.vi" Type="VI" URL="../support/game VIs/TreeSelectMoves.vi"/>
 				<Item Name="FindTreeKey.vi" Type="VI" URL="../support/game VIs/FindTreeKey.vi"/>
 				<Item Name="BuildDecisionTree.vi" Type="VI" URL="../support/game VIs/BuildDecisionTree.vi"/>
+				<Item Name="BuildDecisionTree_alt.vi" Type="VI" URL="../support/game VIs/BuildDecisionTree_alt.vi"/>
+				<Item Name="FindTreeKey_alt.vi" Type="VI" URL="../support/game VIs/FindTreeKey_alt.vi"/>
 				<Item Name="NumericToGameboard.vi" Type="VI" URL="../support/game VIs/NumericToGameboard.vi"/>
+				<Item Name="GetNextPlayer.vi" Type="VI" URL="../support/game VIs/GetNextPlayer.vi"/>
 				<Item Name="SearchForTwoInLine.vi" Type="VI" URL="../support/game VIs/SearchForTwoInLine.vi"/>
 			</Item>
 			<Item Name="SettingsVIs" Type="Folder">
