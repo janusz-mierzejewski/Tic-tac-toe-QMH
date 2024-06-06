@@ -39,6 +39,8 @@
 					<Item Name="CheckTreeTest.vi" Type="VI" URL="../support/game VIs/tests/CheckTreeTest.vi"/>
 					<Item Name="FindKeyTiming.vi" Type="VI" URL="../support/game VIs/tests/FindKeyTiming.vi"/>
 					<Item Name="WinCondNumTests.vi" Type="VI" URL="../support/game VIs/tests/WinCondNumTests.vi"/>
+					<Item Name="ClearBoard Loop test.vi" Type="VI" URL="../support/game VIs/tests/ClearBoard Loop test.vi"/>
+					<Item Name="LightUpGameboard Test.vi" Type="VI" URL="../support/game VIs/tests/LightUpGameboard Test.vi"/>
 				</Item>
 				<Item Name="RandomBotLogic.vi" Type="VI" URL="../support/game VIs/RandomBotLogic.vi"/>
 				<Item Name="SelectRandomIndex.vi" Type="VI" URL="../support/game VIs/SelectRandomIndex.vi"/>
@@ -63,6 +65,7 @@
 				<Item Name="FindTreeKey_alt.vi" Type="VI" URL="../support/game VIs/FindTreeKey_alt.vi"/>
 				<Item Name="NumericToGameboard.vi" Type="VI" URL="../support/game VIs/NumericToGameboard.vi"/>
 				<Item Name="GetNextPlayer.vi" Type="VI" URL="../support/game VIs/GetNextPlayer.vi"/>
+				<Item Name="LigthUpGameboard.vi" Type="VI" URL="../support/game VIs/LigthUpGameboard.vi"/>
 				<Item Name="SearchForTwoInLine.vi" Type="VI" URL="../support/game VIs/SearchForTwoInLine.vi"/>
 			</Item>
 			<Item Name="SettingsVIs" Type="Folder">
@@ -91,6 +94,7 @@
 			<Item Name="UI Data.ctl" Type="VI" URL="../controls/UI Data.ctl"/>
 		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+		<Item Name="PlayCancelEnabler.vi" Type="VI" URL="../support/game VIs/PlayCancelEnabler.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
